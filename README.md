@@ -4,6 +4,8 @@ I created a twitter card with HTML, CSS and JS. I enabled the tweet button to be
 
 <h2> Used Technologies </h2>
 
+HTML5, CSS3, JS
+
 <h2> SCREENSHOT </h2>
 
 ![](ezgif.com-video-to-gif.gif)
